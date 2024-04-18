@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int j;
-    cout<<"Enter a number which u want to check:";
+    cout<<"Enter a number which you want to check:";
     cin>>j;
     
     if(j>99 and j<1000){
